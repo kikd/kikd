@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### OSS Contribution
+* tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)  
+  Contributed to i18n
+* [vuejs-jp/ja.vuejs.org](https://github.com/vuejs-jp/ja.vuejs.org)  
+  Translated documents
+* [Stop-COVID19-Nagano/covid19](https://github.com/Stop-COVID19-Nagano/covid19)  
+  Maintainer
