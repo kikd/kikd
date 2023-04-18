@@ -21,3 +21,9 @@ Here are some ideas to get you started:
   * Translation
 * [Stop-COVID19-Nagano/covid19](https://github.com/Stop-COVID19-Nagano/covid19)  
   * Maintainer
+
+
+
+<!--
+もうちょっと充実させたいね・。・
+-->
